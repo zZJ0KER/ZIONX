@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\ProyectoFinal\ProyectoFinal\Debug\ProyectoFinal.vcxprojAssemblyReference.cache
+C:\Users\USER\Desktop\ProyectoFinal\ProyectoFinal\Debug\ProyectoFinal.FormJuego.resources
+C:\Users\USER\Desktop\ProyectoFinal\ProyectoFinal\Debug\ProyectoFinal.MenuEstablecer.resources
+C:\Users\USER\Desktop\ProyectoFinal\ProyectoFinal\Debug\ProyectoFinal.MenuInstrucciones.resources
+C:\Users\USER\Desktop\ProyectoFinal\ProyectoFinal\Debug\ProyectoFinal.MenuJuego.resources
+C:\Users\USER\Desktop\ProyectoFinal\ProyectoFinal\Debug\ProyectoFinal.vcxproj.GenerateResource.cache
+C:\Users\Carlos\source\repos\TF-20181E301-201918658-202012835-20171F413\ProyectoFinal\ProyectoFinal\Debug\ProyectoFinal.vcxprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\TF-20181E301-201918658-202012835-20171F413\ProyectoFinal\ProyectoFinal\Debug\ProyectoFinal.FormJuego.resources
+C:\Users\Carlos\source\repos\TF-20181E301-201918658-202012835-20171F413\ProyectoFinal\ProyectoFinal\Debug\ProyectoFinal.MenuEstablecer.resources
+C:\Users\Carlos\source\repos\TF-20181E301-201918658-202012835-20171F413\ProyectoFinal\ProyectoFinal\Debug\ProyectoFinal.MenuInstrucciones.resources
+C:\Users\Carlos\source\repos\TF-20181E301-201918658-202012835-20171F413\ProyectoFinal\ProyectoFinal\Debug\ProyectoFinal.MenuJuego.resources
+C:\Users\Carlos\source\repos\TF-20181E301-201918658-202012835-20171F413\ProyectoFinal\ProyectoFinal\Debug\ProyectoFinal.vcxproj.GenerateResource.cache

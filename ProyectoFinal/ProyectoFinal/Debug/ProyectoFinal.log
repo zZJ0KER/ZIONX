@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\Carlos\source\repos\TF-20181E301-201918658-202012835-20171F413\ProyectoFinal\ProyectoFinal\CObstaculos.h(33,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Carlos\source\repos\TF-20181E301-201918658-202012835-20171F413\ProyectoFinal\ProyectoFinal\CCorrupts.h(33,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Carlos\source\repos\TF-20181E301-201918658-202012835-20171F413\ProyectoFinal\ProyectoFinal\CAssasins.h(30,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Carlos\source\repos\TF-20181E301-201918658-202012835-20171F413\ProyectoFinal\ProyectoFinal\FormJuego.h(19,16): warning C4677: 'juego': signature of non-private member contains assembly private type 'CJuego'
+C:\Users\Carlos\source\repos\TF-20181E301-201918658-202012835-20171F413\ProyectoFinal\ProyectoFinal\CJuego.h(9): message : see declaration of 'CJuego'
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+C:\Users\Carlos\source\repos\TF-20181E301-201918658-202012835-20171F413\ProyectoFinal\ProyectoFinal\CMeta.h(27): warning C4715: 'CMeta::Colision': not all control paths return a value
+C:\Users\Carlos\source\repos\TF-20181E301-201918658-202012835-20171F413\ProyectoFinal\ProyectoFinal\CJuego.h(110): warning C4715: 'CJuego::GanarJuego': not all control paths return a value
+C:\Users\Carlos\source\repos\TF-20181E301-201918658-202012835-20171F413\ProyectoFinal\ProyectoFinal\CObstaculos.h(45): warning C4715: 'CObstaculos::GetArea': not all control paths return a value
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ProyectoFinal.vcxproj -> C:\Users\Carlos\source\repos\TF-20181E301-201918658-202012835-20171F413\ProyectoFinal\Debug\ProyectoFinal.exe
